@@ -4,6 +4,7 @@ function App() {
   return (
     <div className={styles.app}>
       <div>Hello Fam</div>
+      <button>Click Me</button>
     </div>
   );
 }
