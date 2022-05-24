@@ -1,6 +1,10 @@
+import styles from './App.module.css';
+
 function App() {
   return (
-    null
+    <div className={styles.app}>
+      Hello Fam
+    </div>
   );
 }
 
